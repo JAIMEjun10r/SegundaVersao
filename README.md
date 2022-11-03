@@ -1,4 +1,10 @@
 # SegundaVersão
 
-Segunda versão do programa que faz automatização de acesso às disciplinas da faculdade.
-É necessário ter o Python e estar logado no site da faculdade, é claro!
+Essa é a segund versão do programa que faz automatização de acesso às disciplinas da faculdade.
+
+## Acréscimos realizados
+- Uma interface gráfica com o nome das matérias
+- Dentro dos nomes da matéria, agora é possível escolher para qual aula deseja ser redirecionado
+
+
+
